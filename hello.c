@@ -52,11 +52,14 @@ int main() {
    printf("false\n");
  }
 */
-// switches
+// switches can only be used as integer types to include primitives as chars (not floats or doubles)
+// case 3;
+//   do something
+// break if no break statement then next statement gets executed as well
 
 
 
-
+// this is a test before push
 
  return 0;
 
